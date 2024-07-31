@@ -1,4 +1,4 @@
-### SQL-Project
+### WALMART SALES DATA SQL-Project
 # Walmart Sales Data Analysis
 
 # About
